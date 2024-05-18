@@ -27,3 +27,5 @@ yarn-error.log*
 
 # src/Firebase_setup/firebase.js
 src/Firebase_setup/firebase.js
+.src/Firebase_setup/firebase.js
+/src/Firebase_setup
