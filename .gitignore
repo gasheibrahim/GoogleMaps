@@ -25,7 +25,5 @@ yarn-error.log*
 # google map api keys
 .env
 
-# src/Firebase_setup/firebase.js
 src/Firebase_setup/firebase.js
-.src/Firebase_setup/firebase.js
-/src/Firebase_setup
+
